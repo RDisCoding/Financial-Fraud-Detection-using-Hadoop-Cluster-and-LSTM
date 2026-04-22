@@ -121,7 +121,6 @@ The project uses the [PaySim synthetic dataset](https://www.kaggle.com/datasets/
 | Visualization | Matplotlib, Seaborn |
 | Evaluation | scikit-learn |
 | Environment | Jupyter Notebook |
-| GPU (LSTM training) | 2× Tesla T4 (Kaggle) |
 
 ---
 
